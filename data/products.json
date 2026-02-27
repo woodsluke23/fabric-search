@@ -1,0 +1,471 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Organic Cotton Rib Tank",
+      "brand": "Everlane",
+      "retailer": "Everlane",
+      "price": 24.00,
+      "imageUrl": "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/1",
+      "description": "A soft, breathable ribbed tank in 100% organic cotton. Perfect layering piece.",
+      "materials": {
+        "fibers": [{ "name": "Organic Cotton", "percentage": 100, "type": "natural" }],
+        "verified": true
+      },
+      "categories": ["casual", "basics"],
+      "gender": ["women", "unisex"],
+      "colors": ["black", "white", "oat"]
+    },
+    {
+      "id": "2",
+      "title": "Essential Black Tank Top",
+      "brand": "Patagonia",
+      "retailer": "Patagonia",
+      "price": 29.00,
+      "imageUrl": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/2",
+      "description": "Lightweight capilene cool daily tank. Moisture-wicking and odor-resistant.",
+      "materials": {
+        "fibers": [
+          { "name": "Polyester", "percentage": 94, "type": "synthetic" },
+          { "name": "Spandex", "percentage": 6, "type": "synthetic" }
+        ],
+        "verified": true
+      },
+      "categories": ["activewear", "casual"],
+      "gender": ["women", "men"],
+      "colors": ["black", "grey", "blue"]
+    },
+    {
+      "id": "3",
+      "title": "Tencel Lyocell Blouse",
+      "brand": "Reformation",
+      "retailer": "Reformation",
+      "price": 148.00,
+      "imageUrl": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/3",
+      "description": "Flowy wrap blouse made from Tencel lyocell. Silky feel, eco-friendly production.",
+      "materials": {
+        "fibers": [{ "name": "Lyocell (Tencel)", "percentage": 100, "type": "regenerated" }],
+        "verified": true
+      },
+      "categories": ["workwear", "casual"],
+      "gender": ["women"],
+      "colors": ["cream", "sage", "black"]
+    },
+    {
+      "id": "4",
+      "title": "Merino Wool Crewneck",
+      "brand": "Unbound Merino",
+      "retailer": "Unbound Merino",
+      "price": 88.00,
+      "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/4",
+      "description": "Ultra-soft merino wool base layer. Naturally odor-resistant and temperature-regulating.",
+      "materials": {
+        "fibers": [{ "name": "Merino Wool", "percentage": 100, "type": "natural" }],
+        "verified": true
+      },
+      "categories": ["casual", "activewear"],
+      "gender": ["men", "women"],
+      "colors": ["black", "grey", "navy", "burgundy"]
+    },
+    {
+      "id": "5",
+      "title": "Linen Blend Wide-Leg Pants",
+      "brand": "Quince",
+      "retailer": "Quince",
+      "price": 49.95,
+      "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/5",
+      "description": "Breathable wide-leg trousers in a linen-viscose blend. Perfect for warm weather.",
+      "materials": {
+        "fibers": [
+          { "name": "Linen", "percentage": 55, "type": "natural" },
+          { "name": "Viscose", "percentage": 45, "type": "regenerated" }
+        ],
+        "verified": true
+      },
+      "categories": ["workwear", "casual"],
+      "gender": ["women"],
+      "colors": ["cream", "black", "olive"]
+    },
+    {
+      "id": "6",
+      "title": "Organic Cotton Bralette",
+      "brand": "Knickey",
+      "retailer": "Knickey",
+      "price": 28.00,
+      "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/6",
+      "description": "GOTS-certified organic cotton bralette. No synthetic fabrics against skin.",
+      "materials": {
+        "fibers": [{ "name": "Organic Cotton", "percentage": 100, "type": "natural" }],
+        "verified": true
+      },
+      "categories": ["intimates"],
+      "gender": ["women"],
+      "colors": ["nude", "black", "white", "sage"]
+    },
+    {
+      "id": "7",
+      "title": "Recycled Polyester Running Shorts",
+      "brand": "Girlfriend Collective",
+      "retailer": "Girlfriend Collective",
+      "price": 38.00,
+      "imageUrl": "https://images.unsplash.com/photo-1594381898411-846e7d193883?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/7",
+      "description": "High-rise running shorts made from recycled water bottles. Four-way stretch.",
+      "materials": {
+        "fibers": [
+          { "name": "Recycled Polyester", "percentage": 79, "type": "synthetic" },
+          { "name": "Spandex", "percentage": 21, "type": "synthetic" }
+        ],
+        "verified": true
+      },
+      "categories": ["activewear"],
+      "gender": ["women"],
+      "colors": ["black", "charcoal", "sage", "coral"]
+    },
+    {
+      "id": "8",
+      "title": "Hemp & Organic Cotton Tee",
+      "brand": "Tentree",
+      "retailer": "Tentree",
+      "price": 44.00,
+      "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/8",
+      "description": "Soft, durable t-shirt blending hemp and organic cotton. Gets softer with every wash.",
+      "materials": {
+        "fibers": [
+          { "name": "Hemp", "percentage": 55, "type": "natural" },
+          { "name": "Organic Cotton", "percentage": 45, "type": "natural" }
+        ],
+        "verified": true
+      },
+      "categories": ["casual", "basics"],
+      "gender": ["men", "women"],
+      "colors": ["black", "white", "olive", "terracotta"]
+    },
+    {
+      "id": "9",
+      "title": "Modal Underwear 3-Pack",
+      "brand": "Pact",
+      "retailer": "Pact",
+      "price": 32.00,
+      "imageUrl": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/9",
+      "description": "Buttery soft modal underwear. GOTS-certified organic cotton waistband.",
+      "materials": {
+        "fibers": [
+          { "name": "Modal", "percentage": 95, "type": "regenerated" },
+          { "name": "Organic Cotton", "percentage": 5, "type": "natural" }
+        ],
+        "verified": true
+      },
+      "categories": ["intimates"],
+      "gender": ["women", "men"],
+      "colors": ["black", "white", "grey", "burgundy"]
+    },
+    {
+      "id": "10",
+      "title": "Cotton-Polyester Blend Polo",
+      "brand": "Banana Republic",
+      "retailer": "Banana Republic",
+      "price": 69.50,
+      "imageUrl": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/10",
+      "description": "Classic pique polo. Wrinkle-resistant and easy care.",
+      "materials": {
+        "fibers": [
+          { "name": "Cotton", "percentage": 60, "type": "natural" },
+          { "name": "Polyester", "percentage": 40, "type": "synthetic" }
+        ],
+        "verified": true
+      },
+      "categories": ["casual", "workwear"],
+      "gender": ["men", "women"],
+      "colors": ["black", "white", "navy", "burgundy"]
+    },
+    {
+      "id": "11",
+      "title": "Silk Blend Camisole",
+      "brand": "Equipment",
+      "retailer": "Nordstrom",
+      "price": 168.00,
+      "imageUrl": "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/11",
+      "description": "Luxurious silk blend cami. Elegant for layering or standalone.",
+      "materials": {
+        "fibers": [
+          { "name": "Silk", "percentage": 70, "type": "natural" },
+          { "name": "Cotton", "percentage": 30, "type": "natural" }
+        ],
+        "verified": true
+      },
+      "categories": ["casual", "workwear", "intimates"],
+      "gender": ["women"],
+      "colors": ["black", "white", "ivory", "blush"]
+    },
+    {
+      "id": "12",
+      "title": "Nylon Athletic Tank",
+      "brand": "Lululemon",
+      "retailer": "Lululemon",
+      "price": 58.00,
+      "imageUrl": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/12",
+      "description": "Swift fabric tank. Ultralight, sweat-wicking, quick-dry.",
+      "materials": {
+        "fibers": [
+          { "name": "Nylon", "percentage": 88, "type": "synthetic" },
+          { "name": "Lycra", "percentage": 12, "type": "synthetic" }
+        ],
+        "verified": true
+      },
+      "categories": ["activewear"],
+      "gender": ["women"],
+      "colors": ["black", "white", "grey", "coral", "teal"]
+    },
+    {
+      "id": "13",
+      "title": "Cupro Slip Dress",
+      "brand": "COS",
+      "retailer": "COS",
+      "price": 129.00,
+      "imageUrl": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/13",
+      "description": "Fluid slip dress in cupro. Silky finish from regenerated cellulose.",
+      "materials": {
+        "fibers": [{ "name": "Cupro", "percentage": 100, "type": "regenerated" }],
+        "verified": true
+      },
+      "categories": ["casual", "workwear"],
+      "gender": ["women"],
+      "colors": ["black", "champagne", "forest"]
+    },
+    {
+      "id": "14",
+      "title": "Cotton Oxford Shirt",
+      "brand": "Taylor Stitch",
+      "retailer": "Taylor Stitch",
+      "price": 98.00,
+      "imageUrl": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/14",
+      "description": "Classic oxford cloth shirt. 100% long-staple cotton.",
+      "materials": {
+        "fibers": [{ "name": "Cotton", "percentage": 100, "type": "natural" }],
+        "verified": true
+      },
+      "categories": ["workwear", "casual"],
+      "gender": ["men"],
+      "colors": ["white", "blue", "pink", "black"]
+    },
+    {
+      "id": "15",
+      "title": "Bamboo Viscose Leggings",
+      "brand": "Boody",
+      "retailer": "Boody",
+      "price": 42.00,
+      "imageUrl": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/15",
+      "description": "Soft, breathable leggings from bamboo viscose. Gentle on skin.",
+      "materials": {
+        "fibers": [
+          { "name": "Bamboo Viscose", "percentage": 85, "type": "regenerated" },
+          { "name": "Elastane", "percentage": 15, "type": "synthetic" }
+        ],
+        "verified": true
+      },
+      "categories": ["activewear", "casual", "intimates"],
+      "gender": ["women"],
+      "colors": ["black", "grey", "burgundy", "navy"]
+    },
+    {
+      "id": "16",
+      "title": "Wool-Blend Blazer",
+      "brand": "J.Crew",
+      "retailer": "J.Crew",
+      "price": 198.00,
+      "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/16",
+      "description": "Tailored blazer in a wool and nylon blend. Structured yet comfortable.",
+      "materials": {
+        "fibers": [
+          { "name": "Wool", "percentage": 75, "type": "natural" },
+          { "name": "Nylon", "percentage": 25, "type": "synthetic" }
+        ],
+        "verified": true
+      },
+      "categories": ["workwear"],
+      "gender": ["women", "men"],
+      "colors": ["black", "navy", "grey", "camel"]
+    },
+    {
+      "id": "17",
+      "title": "Linen Shirt Dress",
+      "brand": "Vince",
+      "retailer": "Nordstrom",
+      "price": 248.00,
+      "imageUrl": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/17",
+      "description": "Relaxed linen shirt dress. Pure linen for maximum breathability.",
+      "materials": {
+        "fibers": [{ "name": "Linen", "percentage": 100, "type": "natural" }],
+        "verified": true
+      },
+      "categories": ["casual", "workwear"],
+      "gender": ["women"],
+      "colors": ["white", "sand", "black", "blue"]
+    },
+    {
+      "id": "18",
+      "title": "Polyester Sports Bra",
+      "brand": "Nike",
+      "retailer": "Nike",
+      "price": 45.00,
+      "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/18",
+      "description": "Dri-FIT sports bra. Supportive for high-impact workouts.",
+      "materials": {
+        "fibers": [
+          { "name": "Polyester", "percentage": 84, "type": "synthetic" },
+          { "name": "Elastane", "percentage": 16, "type": "synthetic" }
+        ],
+        "verified": true
+      },
+      "categories": ["activewear", "intimates"],
+      "gender": ["women"],
+      "colors": ["black", "white", "grey", "pink", "blue"]
+    },
+    {
+      "id": "19",
+      "title": "Organic Cotton Drawstring Pants",
+      "brand": "Alternative Apparel",
+      "retailer": "Alternative Apparel",
+      "price": 52.00,
+      "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/19",
+      "description": "Relaxed organic cotton pants. Fair Trade Certified.",
+      "materials": {
+        "fibers": [{ "name": "Organic Cotton", "percentage": 100, "type": "natural" }],
+        "verified": true
+      },
+      "categories": ["casual"],
+      "gender": ["men", "women"],
+      "colors": ["black", "grey", "olive", "burgundy"]
+    },
+    {
+      "id": "20",
+      "title": "Viscose Midi Skirt",
+      "brand": "& Other Stories",
+      "retailer": "& Other Stories",
+      "price": 79.00,
+      "imageUrl": "https://images.unsplash.com/photo-1583496661160-fb5886a0e8d?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/20",
+      "description": "Flowing midi skirt in viscose. Drapes beautifully.",
+      "materials": {
+        "fibers": [{ "name": "Viscose", "percentage": 100, "type": "regenerated" }],
+        "verified": true
+      },
+      "categories": ["casual", "workwear"],
+      "gender": ["women"],
+      "colors": ["black", "green", "rust", "cream"]
+    },
+    {
+      "id": "21",
+      "title": "Cashmere Blend Sweater",
+      "brand": "Naadam",
+      "retailer": "Naadam",
+      "price": 95.00,
+      "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/21",
+      "description": "Luxuriously soft sweater. Traceable Mongolian cashmere.",
+      "materials": {
+        "fibers": [
+          { "name": "Cashmere", "percentage": 70, "type": "natural" },
+          { "name": "Wool", "percentage": 30, "type": "natural" }
+        ],
+        "verified": true
+      },
+      "categories": ["casual"],
+      "gender": ["women", "men"],
+      "colors": ["black", "grey", "cream", "camel", "burgundy"]
+    },
+    {
+      "id": "22",
+      "title": "Elastane High-Waist Jean",
+      "brand": "Madewell",
+      "retailer": "Madewell",
+      "price": 128.00,
+      "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/22",
+      "description": "Stretch denim with a comfortable fit. Classic high-rise.",
+      "materials": {
+        "fibers": [
+          { "name": "Cotton", "percentage": 76, "type": "natural" },
+          { "name": "Polyester", "percentage": 21, "type": "synthetic" },
+          { "name": "Elastane", "percentage": 3, "type": "synthetic" }
+        ],
+        "verified": true
+      },
+      "categories": ["casual"],
+      "gender": ["women"],
+      "colors": ["black", "indigo", "light wash", "white"]
+    },
+    {
+      "id": "23",
+      "title": "Recycled Nylon Windbreaker",
+      "brand": "The North Face",
+      "retailer": "The North Face",
+      "price": 89.00,
+      "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/23",
+      "description": "Lightweight windbreaker. Made from recycled nylon.",
+      "materials": {
+        "fibers": [
+          { "name": "Recycled Nylon", "percentage": 100, "type": "synthetic" }
+        ],
+        "verified": true
+      },
+      "categories": ["activewear", "casual"],
+      "gender": ["men", "women"],
+      "colors": ["black", "grey", "blue", "green"]
+    },
+    {
+      "id": "24",
+      "title": "Tencel Sleep Set",
+      "brand": "Lunya",
+      "retailer": "Lunya",
+      "price": 168.00,
+      "imageUrl": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/24",
+      "description": "Washable silk-alternative sleep set. Lyocell from sustainably harvested wood.",
+      "materials": {
+        "fibers": [{ "name": "Lyocell (Tencel)", "percentage": 100, "type": "regenerated" }],
+        "verified": true
+      },
+      "categories": ["intimates"],
+      "gender": ["women"],
+      "colors": ["sand", "grey", "burgundy"]
+    },
+    {
+      "id": "25",
+      "title": "Cotton Poplin Button-Down",
+      "brand": "Brooks Brothers",
+      "retailer": "Brooks Brothers",
+      "price": 118.00,
+      "imageUrl": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop",
+      "productUrl": "https://example.com/affiliate/25",
+      "description": "Crisp poplin dress shirt. 100% cotton for breathability.",
+      "materials": {
+        "fibers": [{ "name": "Cotton", "percentage": 100, "type": "natural" }],
+        "verified": true
+      },
+      "categories": ["workwear"],
+      "gender": ["men"],
+      "colors": ["white", "blue", "pink", "black"]
+    }
+  ]
+}
